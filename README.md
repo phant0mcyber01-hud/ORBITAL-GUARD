@@ -1,3 +1,14 @@
+<div align="center">
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Phant0m_%2F%2F_CyberSec_%26_Architecture-00f0ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=090c10)](https://t.me/phant0m_BIO_channel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00e676?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=090c10)](https://phant0mcyber01-hud.github.io)
+[![Author](https://img.shields.io/badge/Contact-@whoami__user01-7928ca?style=for-the-badge&logo=telegram&logoColor=white&labelColor=090c10)](https://t.me/whoami_user01)
+
+</div>
+
+---
+
+
 # ORBITAL GUARD
 
 **Платформа мониторинга околоземных объектов и предварительного анализа орбитальных данных.**
